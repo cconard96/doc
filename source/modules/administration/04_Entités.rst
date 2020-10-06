@@ -74,7 +74,7 @@ Dans le cadre d'une utilisation de GLPI en multi-entités, la gestion de
 certains paramètres de configuration peut s'effectuer différemment pour
 chaque entité (§).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Entités"** Permet d'ajouter une sous-entité à l'entité
@@ -241,13 +241,13 @@ Les différents onglets
       règle créée pour définir ces critères. Sont également listés les
       règles déjà applicables à cette entité.
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

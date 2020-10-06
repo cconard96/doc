@@ -31,7 +31,7 @@ Dans cette gestion de projet, il y a deux objets principaux : le projet et la t�
 Projet
 ------
 
-Les différents onglets
+Les différents tabs
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Tâches de projet
@@ -94,19 +94,19 @@ C'est dans cet onglet qu'il est possible d'associer au projet actuel les objets 
 Il est possible de créer ces objets depuis cet onglet également.
 
 
-.. include:: ../onglets/elements.rst
+.. include:: ../tabs/elements.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 
 Tâche de projet
@@ -131,7 +131,7 @@ Des équipes de gestion distinctes peuvent être composées d'utilisateurs, de g
 
 Les tâches peuvent être liées à des tickets permettant de planifier des interventions permettant de mettre en place le projet. Des durées prévisionnelles et effectives sont également définies au niveau des tâches. Ces durées ainsi que celles des tickets sont alors consolidées au niveau du projet lui même.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 Tâches de projet
@@ -144,15 +144,15 @@ Equipe de tâche
 
 Ici est définie l'équipe en charge de la tâche.
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

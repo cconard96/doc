@@ -4,7 +4,7 @@ Contrats associés
 Cet onglet affiche les contrats associés à l'objet et permet d'en associer de nouveaux.
 
 
-.. image:: /modules/onglets/images/contract.png
+.. image:: /modules/tabs/images/contract.png
    :alt: Écran d'affichage des contrats
    :align: center
 

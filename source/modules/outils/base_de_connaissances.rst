@@ -33,7 +33,7 @@ Il est possible d'associer un ou plusieurs documents aux articles de la base de 
 
 Il est possible de créer des catégories et sous-catégories afin d'organiser la navigation (voir `Configurer les intitulés <08_Module_Configuration/02_Intitulés/01_Intitulés.rst>`__). 
 
-L'utilisateur peut alors utiliser plusieurs onglets pour recherche et naviguer au sein de la base de connaissances :
+L'utilisateur peut alors utiliser plusieurs tabs pour recherche et naviguer au sein de la base de connaissances :
 
 * **Rechercher** 
     C'est l'onglet par défaut. Il présente les articles les plus récents, les plus populaires et les dernières modifications.
@@ -96,7 +96,7 @@ L'utilisateur peut alors utiliser plusieurs onglets pour recherche et naviguer a
         - "suite openoffice"
            -> Recherche les lignes qui contiennent exactement la phrase *suite openoffice*
 
-Les différents onglets d'un article
+Les différents tabs d'un article
 -----------------------------------
 
 Base de connaissances
@@ -114,11 +114,11 @@ Editer
 ~~~~~~
 Cet onglet permet, suivant vos droits, de modifier ou supprimer un article.
 
-.. include:: ../onglets/elements.rst
+.. include:: ../tabs/elements.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
 Révisions
 ~~~~~~~~~
@@ -140,7 +140,7 @@ Un article bénéficie d'un espace commentaires, permettant aux utilisateurs de 
         :alt: Espace commentaire d'un article
         :align: center
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

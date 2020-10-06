@@ -64,7 +64,7 @@ Explication des droits
 ----------------------
 
 Une fois le profil créé, il sera possible d'établir les droits sur les
-différentes fonctionnalités de GLPI. 7 onglets correspondants aux
+différentes fonctionnalités de GLPI. 7 tabs correspondants aux
 différents menus de GLPI sont alors disponibles pour gérer cet ensemble
 de droits (voir ci-dessous).
 
@@ -107,7 +107,7 @@ certains droits qui sont quasiment standard pour tous les objets :
 -  ***Mise à jour notes*** : permet de modifier le contenu d'une note ou
    de la supprimer
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 Remarque : L'affichage de la gestion des profils est fonction du profil
@@ -161,10 +161,10 @@ dont l'utilisateur connecté dépend. Il peut donc varier selon le profil.
    depuis l'entité d'affectation
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
--  **`Onglet "Tous" <Les_différents_onglets/Onglet_Tous.rst>`__** Pour un
+-  **`Onglet "Tous" <Les_différents_tabs/Onglet_Tous.rst>`__** Pour un
    élément, toutes les informations sont affichées sur une seule page.
 
 Les différentes actions

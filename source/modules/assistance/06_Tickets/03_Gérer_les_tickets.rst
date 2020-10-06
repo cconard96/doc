@@ -113,7 +113,7 @@ affecter le ticket.
    des tickets, la même solution est définie sur les tickets dupliqués
    (qui sont donc automatiquement résolus).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Suivis"** C'est l'onglet par défaut lors de la consultation
@@ -140,21 +140,21 @@ Les différents onglets
    d'utilisateurs <07_Module_Administration/07_Profils/01_Profils.rst>`__).
 
 -  **`Onglet
-   "Validation" <Les_différents_onglets/Onglet_Validations.rst>`__**
+   "Validation" <Les_différents_tabs/Onglet_Validations.rst>`__**
 
--  **`Onglet "Tâches" <Les_différents_onglets/Onglet_Tâches.rst>`__** Une
+-  **`Onglet "Tâches" <Les_différents_tabs/Onglet_Tâches.rst>`__** Une
    tâche est une action correspondant à une intervention technique liée
    à un ticket.
 
--  **`Onglet "Solution" <Les_différents_onglets/Onglet_Solution.rst>`__**
+-  **`Onglet "Solution" <Les_différents_tabs/Onglet_Solution.rst>`__**
    Cet onglet solution permet la résolution du ticket par un technicien
    et l'approbation de la solution par le demandeur ou le rédacteur.
    **Vos tickets à clore**.
 
 -  **`Onglet
-   "Statistiques" <Les_différents_onglets/Onglet_Statistiques.rst>`__**
+   "Statistiques" <Les_différents_tabs/Onglet_Statistiques.rst>`__**
 
--  **`Onglet "Coûts <Les_différents_onglets/Onglet_Coûts.rst>`__**
+-  **`Onglet "Coûts <Les_différents_tabs/Onglet_Coûts.rst>`__**
    Définition des coûts applicables à ce ticket.
 
 -  **Onglet tâches de projet** Liste les tâches d'un projet liées à ce
@@ -164,24 +164,24 @@ Les différents onglets
    de la tâche parent. Vous pouvez modifier un projet ou une tâche de
    projet en cliquant sur son nom.
 
-.. include:: ../../onglets/documents.rst
+.. include:: ../../tabs/documents.rst
 
--  **`Onglet "Eléments" <Les_différents_onglets/Onglet_Eléments.rst>`__**
+-  **`Onglet "Eléments" <Les_différents_tabs/Onglet_Eléments.rst>`__**
    Permet d'associer plusieurs éléments au ticket.
 
-.. include:: onglets/problemes.rst
+.. include:: tabs/problemes.rst
 
 -  **`Onglet
-   "Changements" <Les_différents_onglets/Onglet_Changements.rst>`__**
+   "Changements" <Les_différents_tabs/Onglet_Changements.rst>`__**
    Ajouter et visualiser les changements associés à ce ticket.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
-.. include:: ../../onglets/debug.rst
+.. include:: ../../tabs/debug.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 Les différentes actions
 -----------------------

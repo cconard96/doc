@@ -10,6 +10,6 @@ Par exemple, pour un ordinateur, vous avez un ou plusieurs tableaux suivant l'ob
 * le modèle de notification utilisé ;
 * l'adresse du courriel du destinataire.
 
-.. image:: /modules/onglets/images/debug.png
+.. image:: /modules/tabs/images/debug.png
    :alt: Page de déboguage
    :align: center

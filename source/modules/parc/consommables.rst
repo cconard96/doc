@@ -15,7 +15,7 @@ Pour passer un consommable de l'état de neuf à utilisé, il est nécessaire de
 La gestion des stocks partagés est possible en définissant l'élément comme récursif sur une entité. Les éléments seront alors disponibles pour toutes les sous-entités.
 
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 .. _ajout-consommables-modele:
@@ -32,17 +32,17 @@ C'est depuis les actions de masse de cet onglet que sont attribuer les consommab
 Figure 1. Onglet Consommables
 ![image](docs/image/consumable.png)
 
-.. include:: onglets/gestion.rst
+.. include:: tabs/gestion.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

@@ -18,10 +18,10 @@ La gestion globale permet de limiter le nombre d'éléments à gérer dans le ca
 
 **[Gérer les gabarits](Les_différentes_actions/Gérer_les_gabarits.rst)**
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
-.. include:: onglets/composants.rst
+.. include:: tabs/composants.rst
 
 Cartouches
 ~~~~~~~~~~
@@ -37,32 +37,32 @@ Il se décompose en deux parties :
 
    Pour la création ou la suppression de cartouche reportez-vous à :doc:`la gestion des cartouches <cartouches>`.
 
-.. include:: onglets/connexions.rst
+.. include:: tabs/connexions.rst
 
-.. include:: onglets/ports-reseaux.rst
+.. include:: tabs/ports-reseaux.rst
 
-.. include:: onglets/gestion.rst
+.. include:: tabs/gestion.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: onglets/problemes.rst
+.. include:: tabs/problemes.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
+-   **[Onglet "Réservations"](Les_différents_tabs/Onglet_Réservations.rst)**
      Gestion des réservations pour un objet d'inventaire
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 
 Les différentes actions

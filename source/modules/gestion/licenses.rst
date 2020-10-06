@@ -21,7 +21,7 @@ Cette gestion a pour objectif de fournir:
         :alt: Caractérisation d'une licence
         :align: center
 
-.. include:: ../onglets/templates.rst
+.. include:: ../tabs/templates.rst
 
 Description des champs spécifiques
 ----------------------------------
@@ -32,7 +32,7 @@ Description des champs spécifiques
 * **Autoriser la surconsommation (Allow Over-Quota)**: Permet d'autoriser ou non le dépassement du nombre de lien maximum configuré dans le champ Nombre;
 * **Expiration**: La date de fin de validité de la licence. Champ utile pour configurer les alertes et anticiper le renouvellement.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 Licences
@@ -74,21 +74,21 @@ Cet onglet liste précisément chaque élément relié à la licence actuelle.
         :align: center
 
 
-.. include:: ../onglets/management.rst
+.. include:: ../tabs/management.rst
 
-.. include:: ../onglets/contract.rst
+.. include:: ../tabs/contract.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/knowledgebase.rst
+.. include:: ../tabs/knowledgebase.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: ../onglets/problems.rst
+.. include:: ../tabs/problems.rst
 
-.. include:: ../onglets/changes.rst
+.. include:: ../tabs/changes.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
 
 Certificats
@@ -99,9 +99,9 @@ Dans cet onglet, il est possible d'associer un certificat, présent dans GLPI, �
 .. image:: images/certificates-licenses.png
 
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 
 Les différentes actions

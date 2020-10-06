@@ -23,7 +23,7 @@ Depuis la liste des utilisateurs, 3 options sont proposées pour
 `importer un utilisateur
 |image| <07_Module_Administration/02_Utilisateurs/02_Importer_des_utilisateurs.rst>`__.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Habilitations"** Permet d'administrer les habilitations
@@ -48,26 +48,26 @@ Les différents onglets
    de modifier la configuration générale.
 
 -  **`Onglet "Eléments
-   utilisés" <Les_différents_onglets/Onglet_Eléments.rst>`__**
+   utilisés" <Les_différents_tabs/Onglet_Eléments.rst>`__**
    L'utilisateur est défini dans le champ *Utilisateur* de l'objet ou
    est membre du groupe défini dans le champ *Groupe* de l'objet.
 
 -  **`Onglet "Eléments
-   gérés" <Les_différents_onglets/Onglet_Eléments.rst>`__** L'utilisateur
+   gérés" <Les_différents_tabs/Onglet_Eléments.rst>`__** L'utilisateur
    est défini dans le champ *Responsable technique* de l'objet ou est
    membre du groupe défini dans le champ *Groupe technique* de l'objet.
 
-.. include:: ../../onglets/tickets.rst
+.. include:: ../../tabs/tickets.rst
 
 Pour les utilisateurs, en plus de lister les tickets créés par
 l'utilisateur, vous pouvez directement créer un ticket d'incident depuis
 cet onglet. Dans ce cas, l'utilisateur sera défini automatiquement comme
 Demandeur.
 
-.. include:: ../../onglets/documents.rst
+.. include:: ../../tabs/documents.rst
 
 -  **`Onglet
-   "Réservations" <Les_différents_onglets/Onglet_Réservations.rst>`__**
+   "Réservations" <Les_différents_tabs/Onglet_Réservations.rst>`__**
    Liste les réservations passées, en cours et à venir de l'utilisateur.
    Vous devez avoir le droit de lecture sur l'administration des
    réservations pour voir cet onglet.
@@ -77,15 +77,15 @@ Demandeur.
    changer la méthode d'authentification d'un utilisateur et de forcer
    sa synchronisation.
 
--  **`Onglet "Liens" <Les_différents_onglets/Onglet_Liens.rst>`__** Cet
+-  **`Onglet "Liens" <Les_différents_tabs/Onglet_Liens.rst>`__** Cet
    onglet liste les liens externes définis pour les utilisateurs.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
 
-.. include:: ../../onglets/debug.rst
+.. include:: ../../tabs/debug.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 Les différentes actions
 -----------------------

@@ -34,7 +34,7 @@ Les changements utilisent leurs propres notifications (voir `Configurer
 les suivis par
 courriels <08_Module_Configuration/04_Notifications/02_Configuration_des_suivis_par_courriels.rst>`__).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  \*\*Onglet "Analyse" Cet onglet décrit les impacts et les listes de
@@ -43,22 +43,22 @@ Les différents onglets
 -  \*\*Onglet "Plans" Cet onglet permet de définir les plans de
    déploiement et de repli ainsi que les listes de contrôles.
 
--  **`Onglet "Solution" <Les_différents_onglets/Onglet_Solution.rst>`__**
+-  **`Onglet "Solution" <Les_différents_tabs/Onglet_Solution.rst>`__**
    Cet onglet permet d'indiquer la résolution du changement.
 
 -  **`Onglet
-   "Statistiques" <Les_différents_onglets/Onglet_Statistiques.rst>`__**
+   "Statistiques" <Les_différents_tabs/Onglet_Statistiques.rst>`__**
    Des statistiques similaires aux tickets sont disponibles pour les
    changements.
 
 -  **`Onglet
-   "Validations" <Les_différents_onglets/Onglet_Validations.rst>`__**
+   "Validations" <Les_différents_tabs/Onglet_Validations.rst>`__**
 
--  **`Onglet "Tâches" <Les_différents_onglets/Onglet_Tâches.rst>`__** Une
+-  **`Onglet "Tâches" <Les_différents_tabs/Onglet_Tâches.rst>`__** Une
    tâche est une action correspondant à une intervention technique liée
    à un changement.
 
--  **`Onglet "Coûts" <Les_différents_onglets/Onglet_Coûts.rst>`__**
+-  **`Onglet "Coûts" <Les_différents_tabs/Onglet_Coûts.rst>`__**
    Définition des coûts applicables à ce changement.
 
 -  **Onglet "Projets"** Cet l'onglet permet d'associer un projet à ce
@@ -68,21 +68,21 @@ Les différents onglets
    sa priorité, les superviseur et groupe superviseur si renseignés
    ainsi que son nom.
 
-.. include:: onglets/problemes.rst
+.. include:: tabs/problemes.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
--  **`Onglet "Eléments" <Les_différents_onglets/Onglet_Eléments.rst>`__**
+-  **`Onglet "Eléments" <Les_différents_tabs/Onglet_Eléments.rst>`__**
    Cet onglet permet d'associer un élément à ce changement en
    choisissant le type ainsi que l'élément souhaité.
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

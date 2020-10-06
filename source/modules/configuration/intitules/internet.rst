@@ -3,7 +3,7 @@ Intitulés Internet
 
 Le protocole IP est matérialisé sous plusieurs formes : adresses IP, réseaux IP, mais aussi des :term:`FQDN`.
 
-Un équipement se connecte au réseau au travers de :doc:`ports réseaux <../../parc/onglets/ports-reseaux>`.
+Un équipement se connecte au réseau au travers de :doc:`ports réseaux <../../parc/tabs/ports-reseaux>`.
 
 À un port réseau, on associe un ou plusieurs Noms réseau(voir ci-dessous).
 
@@ -59,9 +59,9 @@ Liste les adresses IP de ce réseau.
 
 Vous pouvez classer cette liste par numéro d'IP en cliant sur le lien Adresses IP ou par type de matériel en cliquant sur le lien Trier par type d'élément. Dans ce cas, vous aurez un tableau par type d'élément.
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 Domaines Internet
 -----------------
@@ -76,9 +76,9 @@ Alias réseau
 
 Liste les alias réseau du domaine.
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 Réseaux Wifi
 ------------
@@ -111,6 +111,6 @@ Traditionnellement, le nom réseau est celui utilisé par le DNS pour la résolu
 
 De la même manière, le nom de l'alias doit un label FQDN valide.
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst

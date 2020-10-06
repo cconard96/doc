@@ -26,7 +26,7 @@ Il est également possible de consulter le planning spécifique d'un matériel r
         :align: center
 
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 Réservations

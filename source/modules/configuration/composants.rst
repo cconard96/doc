@@ -24,7 +24,7 @@ des composants déjà enregistrés.
    :alt: Liste des composants
    :align: center
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 Principal
@@ -63,15 +63,15 @@ Les informations suivantes seront affichés :
       Plusieurs onglet sont alors proposés :
 
       *  Onglet "Elément - Lien nom du composant" : liste les caractéristiques de ce composant.
-      *  :doc:`Onglet "Gestion" <../parc/onglets/gestion>` : gérer les informations financières et administratives.
-      *  :doc:`Onglet "Documents" <../onglets/documents>`
-      *  :doc:`Onglet "Historique" <../onglets/historique>`
-      *  :doc:`Onglet "Debug" <../onglets/debug>` : uniquement si vous êtes connecté en mode Debug.
-      *  :doc:`Onglet "Tous" <../onglets/all>` : pour un élément, toutes les informations sont affichées sur une
+      *  :doc:`Onglet "Gestion" <../parc/tabs/gestion>` : gérer les informations financières et administratives.
+      *  :doc:`Onglet "Documents" <../tabs/documents>`
+      *  :doc:`Onglet "Historique" <../tabs/historique>`
+      *  :doc:`Onglet "Debug" <../tabs/debug>` : uniquement si vous êtes connecté en mode Debug.
+      *  :doc:`Onglet "Tous" <../tabs/all>` : pour un élément, toutes les informations sont affichées sur une
          seule page.
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst

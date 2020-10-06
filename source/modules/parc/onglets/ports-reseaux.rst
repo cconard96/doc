@@ -30,7 +30,7 @@ On peut ajouter plusieurs noms réseau en allant dans l'onglet "Nom réseau".
    Lorsqu'il n'y a qu'un seul nom réseau, il s'affichera dans le
    formulaire du port réseau et il sera possible de le modifier
    directement. On peut également modifier le nom réseau au travers de
-   son formulaire propre (avec ses onglets) en cliquant sur le titre
+   son formulaire propre (avec ses tabs) en cliquant sur le titre
    juste au dessus de la partie du formulaire qui le concerne.
 
    Lorsqu'il y a plusieurs noms réseau, il n'est plus possible de

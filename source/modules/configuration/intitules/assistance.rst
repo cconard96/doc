@@ -16,7 +16,7 @@ Catégories de tickets
 
 Liste les sous-catégories existantes et permet d'en ajouter une nouvelle.
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
 
 Catégories de tâches
@@ -31,7 +31,7 @@ Catégories de tâches
 
 Liste les sous-catégories existantes et permet d'en ajouter une nouvelle.
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
 Types de solution
 -----------------
@@ -56,7 +56,7 @@ Elle permet de prédéfinir le contenu ainsi que le type d'une solution et peut 
 
    Les gabarits de solution ne peuvent pas être traduits
 
-.. include:: ../../onglets/historique.rst
+.. include:: ../../tabs/historique.rst
 
 
 Statuts de projet
@@ -81,9 +81,9 @@ Cette liste est une liste de valeurs à plat valable pour toutes les entités.
 
 Elle permet de définir les types de tâches appliqués à un projet.
 
-Les onglets communs
+Les tabs communs
 -------------------
 
-.. include:: onglets/traduction.rst
+.. include:: tabs/traduction.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst

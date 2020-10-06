@@ -16,7 +16,7 @@ Pour qu'une cartouche puisse être installable sur une imprimante, celle-ci doit
 
 La gestion des stocks partagés est possible en définissant l'élément comme récursif sur une entité. Les éléments seront alors disponibles pour toutes les sous-entités.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 - **Onglet "Cartouches"**
   C'est depuis cet onglet que vous pouvez ajouter autant de cartouches que nécessaire pour ce modèle. Vous pouvez d'ailleurs ajouter plusieurs cartouches en une seule fois.
@@ -30,19 +30,19 @@ Figure 1. Onglet Cartouches
 -   **Onglet "Modèles d'imprimantes"**
     Cet onglet permet de déterminer les modèles d'imprimantes compatibles avec la cartouche.
 
-.. include:: onglets/gestion.rst
+.. include:: tabs/gestion.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

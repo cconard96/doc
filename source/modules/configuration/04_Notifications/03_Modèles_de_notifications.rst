@@ -21,7 +21,7 @@ GLPI vient avec un ensemble de modèles pré-définis pour toutes les
 notifications (tickets, réservations, informations financières,
 cartouches, consommables, licences, synchronisation MySQL...).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Modèles de notifications"**
@@ -40,10 +40,10 @@ Les différents onglets
    toutes les langues de GLPI n'ayant pas leur propre traduction*.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
--  **`Onglet "Tous" <Les_différents_onglets/Onglet_Tous.rst>`__** Pour un
+-  **`Onglet "Tous" <Les_différents_tabs/Onglet_Tous.rst>`__** Pour un
    élément, toutes les informations sont affichées sur une seule page.
 
 Les différentes actions

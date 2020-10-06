@@ -16,7 +16,7 @@ Ce tableau récapitulatif comprend notamment pour chaque objet :
 * son titre,
 * une colonne indiquant le nombre de tâches planifiées.
 
-.. image:: /modules/onglets/images/changements.png
+.. image:: /modules/tabs/images/changements.png
    :alt: Image de la liste des changements
 
 .. note::

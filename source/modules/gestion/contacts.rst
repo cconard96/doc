@@ -12,19 +12,19 @@ Chaque contact est caractérisé par les informations d'identité usuelles ainsi
 .. note::
         La liste des titres possibles pour un contact est identique à celle des utilisateurs.
 
-Les différents onglets
+Les différents tabs
 ----------------------
-.. include:: ../onglets/suppliers.rst
+.. include:: ../tabs/suppliers.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/external-links.rst
+.. include:: ../tabs/external-links.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

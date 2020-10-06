@@ -5,7 +5,7 @@ Les paramètres centraux permettent de configurer globalement GLPI.
 Certains de ces paramètres peuvent être modifiés par l'utilisateur dans
 sa session.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **`Onglet *Configuration
@@ -39,9 +39,9 @@ Les différents onglets
    MySQL </modules/configuration/06_Générale/01_Configurer_les_paramètres_centraux.rst:>`__**
    GLPI peut être configuré pour utiliser une base MySQL esclave.
 
-.. include:: ../../onglets/debug.rst
+.. include:: ../../tabs/debug.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 --------------
 

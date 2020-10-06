@@ -3,13 +3,13 @@ Gestion
 
 Gestion des informations financières et administratives, ces informations sont visibles dans l'onglet `Gestion` sur la fiche de l'ordinateur.
 
-.. image:: /modules/onglets/images/gestion.png
+.. image:: /modules/tabs/images/gestion.png
    :alt: Écran de gestion
    :align: center
 
 Par defaut cette gestion est désactivée. Il est possible d'activer les informations financières sur tout type d'objet de l'inventaire en utilisant le lien dans l'onglet *Gestion* du détail du matériel
 
-.. image:: /modules/onglets/images/gestion_enable.png
+.. image:: /modules/tabs/images/gestion_enable.png
    :alt: activer la gestion
    :align: center
 

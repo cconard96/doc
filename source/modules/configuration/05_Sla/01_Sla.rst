@@ -48,7 +48,7 @@ Le passage du ticket au statut en attente met le SLA en sommeil. Si le
 ticket reste en attente 3 heures par exemple, la date d'échéance sera
 repoussée de 3 heures.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **`Onglet "Niveaux
@@ -60,12 +60,12 @@ Les différents onglets
 
 -  **Onglet "Règles"** Liste les règles métier liées à ce SLA.
 
-.. include:: ../../onglets/tickets.rst
+.. include:: ../../tabs/tickets.rst
 
 Pour les SLA, il n'est pas possible d'ajouter un ticket. L'onglet liste
 juste les tickets affectés à ce SLA.
 
--  **`Onglet "Tous" <Les_différents_onglets/Onglet_Tous.rst>`__** Pour un
+-  **`Onglet "Tous" <Les_différents_tabs/Onglet_Tous.rst>`__** Pour un
    élément, toutes les informations sont affichées sur une seule page.
 
 Les différentes actions

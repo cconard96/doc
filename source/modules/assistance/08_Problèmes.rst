@@ -27,42 +27,42 @@ Des statistiques similaires aux tickets sont disponibles pour les
 problèmes (voir `Visualiser les
 statistiques <04_Module_Assistance/11_Statistiques.rst>`__).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
 -  **`Onglet
-   "Changements" <Les_différents_onglets/Onglet_Changements.rst>`__**
+   "Changements" <Les_différents_tabs/Onglet_Changements.rst>`__**
    Ajouter et visualiser les changements associés à ce problème.
 
--  **`Onglet "Tâches" <Les_différents_onglets/Onglet_Tâches.rst>`__** Une
+-  **`Onglet "Tâches" <Les_différents_tabs/Onglet_Tâches.rst>`__** Une
    tâche est une action correspondant à une intervention technique liée
    à un problème.
 
--  **`Onglet "Coûts" <Les_différents_onglets/Onglet_Coûts.rst>`__**
+-  **`Onglet "Coûts" <Les_différents_tabs/Onglet_Coûts.rst>`__**
    Définition des coûts applicables à ce problème.
 
--  **`Onglet "Eléments" <Les_différents_onglets/Onglet_Eléments.rst>`__**
+-  **`Onglet "Eléments" <Les_différents_tabs/Onglet_Eléments.rst>`__**
    Cet onglet permet d'associer un élément à ce problème en choisissant
    le type ainsi que l'élément souhaité.
 
 -  \*\*Onglet "Analyse" Cet onglet permet l'analyse du problème est
    précisant les impacts, les causes et les symptômes.
 
--  **`Onglet "Solution" <Les_différents_onglets/Onglet_Solution.rst>`__**
+-  **`Onglet "Solution" <Les_différents_tabs/Onglet_Solution.rst>`__**
    Cet onglet permet d'indiquer la résolution du problème.
 
 -  **`Onglet
-   "Statistiques" <Les_différents_onglets/Onglet_Statistiques.rst>`__**
+   "Statistiques" <Les_différents_tabs/Onglet_Statistiques.rst>`__**
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

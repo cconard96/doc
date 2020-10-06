@@ -10,7 +10,7 @@ identique. Ce mécanisme s'applique sur les ajouts manuels, mais aussi
 sur l'import depuis une source externe comme depuis un outil
 d'inventaire.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Unicité des champs"** L'unicité est définie par un nom, un
@@ -40,12 +40,12 @@ Les différents onglets
    fiche de l'objet.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 --------------
 

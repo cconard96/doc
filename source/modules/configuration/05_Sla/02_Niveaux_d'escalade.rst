@@ -19,7 +19,7 @@ d'escalade.
 
      Par exemple, si 1 jour avant la date d'échéance vous souhaitez envoyer un rappel à l'administrateur si le ticket est toujours à l'état *Nouveau*, il faut définir comme critère `Status est Nouveau`.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Critères"** Permet d'ajouter un nouveau critère et liste
@@ -30,12 +30,12 @@ Les différents onglets
    définies pour ce niveau d'escalade.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
-.. include:: ../../onglets/debug.rst
+.. include:: ../../tabs/debug.rst
 
-.. include:: ../../onglets/all.rst
+.. include:: ../../tabs/all.rst
 
 Les différentes actions
 -----------------------

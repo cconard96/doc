@@ -37,7 +37,7 @@ d'un événement.
     sous-entités, elle sera alors exécutée même si l'administrateur
     d'une entité fille ne la redéclare pas.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Notifications"** Une notification est composée d'un certain
@@ -111,10 +111,10 @@ Les différents onglets
       réservation du matériel.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
    L'historique est visualisé depuis l'onglet *Historique*
 
--  **`Onglet "Tous" <Les_différents_onglets/Onglet_Tous.rst>`__** Pour un
+-  **`Onglet "Tous" <Les_différents_tabs/Onglet_Tous.rst>`__** Pour un
    élément, toutes les informations sont affichées sur une seule page.
 
 Les différentes actions

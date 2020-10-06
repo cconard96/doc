@@ -10,7 +10,7 @@ notifications <08_Module_Configuration/04_Notifications/01_Configurer_les_notifi
 Watcher** (voir `Gérer les notifications par
 entité <08_Module_Configuration/04_Notifications/04_Notifications.rst>`__).
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Action automatique**

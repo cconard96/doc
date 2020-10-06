@@ -95,20 +95,20 @@ externe <07_Module_Administration/02_Utilisateurs/02_Importer_des_utilisateurs.r
     préalablement sur un groupe provenant de l'annuaire LDAP sera
     perdue.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 -  **Onglet "Sous-groupes"** Permet d'ajouter un sous-groupe au groupe
    sélectionné et liste les sous-groupes existants.
 
 -  **`Onglet "Eléments
-   utilisés" <Les_différents_onglets/Onglet_Eléments.rst>`__** Liste les
+   utilisés" <Les_différents_tabs/Onglet_Eléments.rst>`__** Liste les
    éléments pour lesquels le champ *Groupe* correspond à ce groupe. La
    recherche peut être étendue ou sous-groupes ainsi qu'aux membres du
    groupe (champ *Utilisateur* de l'objet).
 
 -  **`Onglet "Eléments
-   gérés" <Les_différents_onglets/Onglet_Eléments.rst>`__** Liste les
+   gérés" <Les_différents_tabs/Onglet_Eléments.rst>`__** Liste les
    éléments pour lesquels le champ *Groupe Technique* correspond à ce
    groupe. La recherche peut être étendue ou sous-groupes ainsi qu'aux
    membres du groupe (champ *Responsable technique* de l'objet).
@@ -127,15 +127,15 @@ Les différents onglets
 -  **Onglet "Notifications"** Liste des notifications pour lesquelles ce
    groupe est destinataire ou le superviseur de ce groupe. |image|]
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
 Pour les groupes, il est possible de lister également les tickets des
 sous-groupes.
 
 -  **`Onglet
-   "Historique" <Les_différents_onglets/Onglet_Historique.rst>`__**
+   "Historique" <Les_différents_tabs/Onglet_Historique.rst>`__**
 
--  **`Onglet "Tous" <Les_différents_onglets/Onglet_Tous.rst>`__** Pour un
+-  **`Onglet "Tous" <Les_différents_tabs/Onglet_Tous.rst>`__** Pour un
    élément, toutes les informations sont affichées sur une seule page.
 
 Les différentes actions

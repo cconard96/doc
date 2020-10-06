@@ -36,7 +36,7 @@ métier pour les tickets peuvent être récursives, c'est-à-dire qu'elles
 peuvent être définies sur une entité avec une application sur l'entité
 même et sur les sous-entités.
 
-3 onglets sont accessibles :
+3 tabs sont accessibles :
 
 -  **règles appliquées (nom entité)** : toutes les règles des entités
    parentes jouées (uniquement si vous avez le droit *Règles métiers

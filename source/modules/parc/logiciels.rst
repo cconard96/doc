@@ -24,7 +24,7 @@ Certains champs sont spécifiques dans la fiche du logiciel :
 
 Il est possible d'utiliser les :doc:`gabarits avec les logiciels <../generalites/gabarits>`.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 .. _versions_soft:
@@ -72,24 +72,24 @@ Pour **Désinstaller** une version d'un logiciel, il faut utiliser le système d
 
 A la suite des versions installées, la liste des licences affectées mais non installées est affichée. Vous pouvez ajouter une nouvelle licence associée à cet ordinateur. Le système d'actions massives permet, via l'action **Installer**, d'installer les versions d'utilisation des licences sélectionnées.
 
-.. include:: onglets/gestion.rst
+.. include:: tabs/gestion.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: onglets/problemes.rst
+.. include:: tabs/problemes.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
+-   **[Onglet "Réservations"](Les_différents_tabs/Onglet_Réservations.rst)**
      Gestion des réservations pour un objet d'inventaire
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
 Regroupement
 ~~~~~~~~~~~~
@@ -130,9 +130,9 @@ Effets du regroupement :
     * de vider la corbeille à la fin du regroupement (sinon la synchronisation restaurera le logiciel en cas de nouvelle version) ;
     * d'affecter le même fabricant au nouveau logiciel (la synchronisation vérifiant le nom du fabricant, un nouveau logiciel serait créé).
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

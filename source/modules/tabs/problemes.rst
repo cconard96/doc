@@ -17,7 +17,7 @@ Ce tableau récapitulatif comprend notamment pour chaque objet :
 * une colonne indiquant le nombre de tâches planifiées.
 
 
-.. image:: /modules/onglets/images/problemes.png
+.. image:: /modules/tabs/images/problemes.png
    :alt: Image de la liste des problème
 
 .. note::

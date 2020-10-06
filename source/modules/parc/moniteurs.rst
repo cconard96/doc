@@ -18,35 +18,35 @@ La gestion globale permet de limiter le nombre d'éléments à gérer dans le ca
 
 Il est possible d'utiliser les :doc:`gabarits avec les moniteurs <../generalites/gabarits>`.
 
-Les différents onglets
+Les différents tabs
 ----------------------
 
 .. _connexion_monitor:
 
-.. include:: onglets/connexions.rst
+.. include:: tabs/connexions.rst
 
-.. include:: onglets/gestion.rst
+.. include:: tabs/gestion.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: onglets/problemes.rst
+.. include:: tabs/problemes.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
+-   **[Onglet "Réservations"](Les_différents_tabs/Onglet_Réservations.rst)**
      Gestion des réservations pour un objet d'inventaire
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

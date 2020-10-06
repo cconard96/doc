@@ -20,7 +20,7 @@ Le centre de données en lui même est un objet très simpliste dans GLPI. Il se
 		:alt: Caractérsation d'un centre de données
 		:align: center
 
-Les différents onglets
+Les différents tabs
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Salles serveurs
@@ -33,7 +33,7 @@ Cet onglet liste les salles serveurs attachées au centre de données actuel et 
 		:align: center
 
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 
 Salle Serveur 
@@ -55,7 +55,7 @@ La salle serveur est associable à un centre de données et un lieu.
         
         L'arrière plan peut grandement aider à la visualisation de la salle, notamment si celui ci a été généré avec un outil adapté à la représentation d'espace.
 
-Les différents onglets
+Les différents tabs
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Baies
@@ -78,23 +78,23 @@ Cet onglet permet de consulter et de construire le schéma d'impact du point de 
 .. image:: images/impact-datacenters.png
 
 
-.. include:: ../onglets/management.rst
+.. include:: ../tabs/management.rst
 
-.. include:: ../onglets/contract.rst
+.. include:: ../tabs/contract.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/external-links.rst
+.. include:: ../tabs/external-links.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: ../onglets/problems.rst
+.. include:: ../tabs/problems.rst
 
-.. include:: ../onglets/changes.rst
+.. include:: ../tabs/changes.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 
 Les différentes actions
