@@ -1,14 +1,14 @@
-Premiers pas avec GLPI
+First Steps with GLPI
 ======================
 
-   Tout ce qu'il faut savoir pour démarrer avec GLPI !
+   Everything you need to know to get started with GLPI!
 
 .. toctree::
    :maxdepth: 2
 
-   generalites
-   decouverte
-   mot-de-passe
+   general
+   discovery
+   manage-your-password
    preferences
    navigation-modules
    interfaces
