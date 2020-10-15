@@ -12,6 +12,6 @@ First Steps with GLPI
    preferences
    navigation-modules
    interfaces
-   visualiser
-   rechercher
-   recherches-sauvegardees
+   view
+   search
+   saved-searches
