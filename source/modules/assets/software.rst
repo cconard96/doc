@@ -134,8 +134,8 @@ Effets du regroupement :
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 
 Outre les :doc:`actions communes <../generalites/actions>` ; certaines actions sont spécifiques aux logiciels :
 

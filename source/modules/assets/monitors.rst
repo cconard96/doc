@@ -1,5 +1,5 @@
-Moniteurs
-=========
+Monitors
+========
 
 Dans la fiche des moniteurs, plusieurs informations sont disponibles :
 
@@ -18,8 +18,8 @@ La gestion globale permet de limiter le nombre d'éléments à gérer dans le ca
 
 Il est possible d'utiliser les :doc:`gabarits avec les moniteurs <../generalites/gabarits>`.
 
-Les différents onglets
-----------------------
+The Different Tabs
+------------------
 
 .. _connexion_monitor:
 
@@ -48,8 +48,8 @@ Les différents onglets
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 
 Outre les :doc:`actions communes <../generalites/actions>` ; certaines actions sont spécifiques aux moniteurs :
 

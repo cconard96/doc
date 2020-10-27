@@ -1,4 +1,4 @@
-Cartouches
+Cartridges
 ==========
 
 Ce module permet de créer des modèles de cartouches ainsi que les cartouches correspondantes.
@@ -44,8 +44,8 @@ Figure 1. Onglet Cartouches
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 -   **[Ajouter un modèle de cartouche](Les_différentes_actions/Créer_un_nouvel_objet.rst)**
 -   **[Voir un modèle de cartouche](Les_différentes_actions/Visualiser_un_objet.rst)**
 -   **[Modifier un modèle de cartouche](Les_différentes_actions/Modifier_un_objet.rst)**

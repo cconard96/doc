@@ -7,4 +7,4 @@ C'est à l'administrateur de GLPI, depuis la :ref:`configuration des intitulés 
 
 Le statut d'un élément est modifiable depuis sa fiche ou depuis le système d'actions massives.
 
-Un :ref:`rapport <gestion-rapports>` vous propose une synthèse des statuts par type de matériel. La :ref:`recherche globale de l'inventaire <recherche-globale-inventaire>` vous permet une recherche par statut sur l'ensemble des éléments.
+Un :ref:`rapport <gestion-rapports>` vous propose une synthèse des statuts par type de matériel. La :ref:`recherche globale de l'inventaire <global-inventory-search>` vous permet une recherche par statut sur l'ensemble des éléments.

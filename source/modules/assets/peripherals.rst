@@ -17,8 +17,8 @@ La gestion globale permet de limiter le nombre d'élément à gérer dans le cas
 
 Il est possible d'utiliser les :doc:`gabarits avec les périphériques <../generalites/gabarits>`.
 
-Les différents onglets
-----------------------
+The Different Tabs
+------------------
 
 .. include:: onglets/composants.rst
 
@@ -49,7 +49,7 @@ Les différents onglets
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 
 Les périphériques ne proposent pas d'actions spécifiques, se reporter aux :doc:`actions communes <../generalites/actions>`.

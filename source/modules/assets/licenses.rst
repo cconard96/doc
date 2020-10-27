@@ -20,8 +20,8 @@ Il est possible de lier des contrats à des licences (Voir [Gérer les contrats]
 ***Remarque :** Lors de l'activation des informations financières d'une licence, les données sont initialisées avec les renseignements saisis dans les informations financières du logiciel (qui n'est qu'un modèle).*
 
 
-Les différents onglets
-----------------------
+The Different Tabs
+------------------
 -   **Onglet "Résumé"**
     Affiche un tableau listant le nombre d'ordinateurs utilisant cette licence
     ![image](docs/image/resumeLicence.png)
@@ -43,8 +43,8 @@ Les différents onglets
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 - **Visualiser le détail d'une licence d'un logiciel**
   Depuis le menu **Parc > Logiciels** cliquer sur le nom de la licence dans l'onglet *Licences*.
 - **Supprimer l'utilisation d'une licence par un ordinateur**

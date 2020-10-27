@@ -18,8 +18,8 @@ La gestion globale permet de limiter le nombre d'éléments à gérer dans le ca
 
 **[Gérer les gabarits](Les_différentes_actions/Gérer_les_gabarits.rst)**
 
-Les différents onglets
-----------------------
+The Different Tabs
+------------------
 
 .. include:: onglets/composants.rst
 
@@ -65,7 +65,7 @@ Il se décompose en deux parties :
 .. include:: ../onglets/all.rst
 
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 
 Les imprimantes ne proposent pas d'actions spécifiques, se reporter aux :doc:`actions communes <../generalites/actions>`.

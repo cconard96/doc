@@ -1,4 +1,4 @@
-Matériels réseaux
+Network Equipment
 =================
 
 Le matériel réseau représente le matériel qui gère, transmet et route le réseau entre plusieurs autres matériels (ordinateurs, imprimantes...).
@@ -7,8 +7,8 @@ Un matériel réseau peut être un switch, un hub ethernet, un routeur, un pare-
 
 Il est possible d'utiliser les :doc:`gabarits avec les matériels réseaux <../generalites/gabarits>`.
 
-Les différents onglets
-----------------------
+The Different Tabs
+------------------
 
 .. include:: onglets/composants.rst
 
@@ -40,7 +40,7 @@ Les différents onglets
 
 .. include:: ../onglets/all.rst
 
-Les différentes actions
------------------------
+The Different Actions
+---------------------
 
 Les matériels réseaux ne proposent pas d'actions spécifiques, se reporter aux :doc:`actions communes <../generalites/actions>`.
