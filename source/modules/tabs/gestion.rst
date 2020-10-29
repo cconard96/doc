@@ -1,78 +1,78 @@
-Gestion
-~~~~~~~
+Management
+~~~~~~~~~~
 
-Gestion des informations financières et administratives, ces informations sont visibles dans l'onglet `Gestion` sur la fiche de l'ordinateur.
+Management of financial and administrative information, this information is visible in the 'Management' tab on the computer's form.
 
-.. image:: /modules/onglets/images/gestion.png
-   :alt: Écran de gestion
+.. image:: /modules/tabs/images/management.png
+   :alt: Management screen
    :align: center
 
-Par defaut cette gestion est désactivée. Il est possible d'activer les informations financières sur tout type d'objet de l'inventaire en utilisant le lien dans l'onglet *Gestion* du détail du matériel
+By default this management is disabled. It is possible to activate the financial information on any type of object in the inventory by using the link in the *Management* tab of the material detail.
 
-.. image:: /modules/onglets/images/gestion_enable.png
-   :alt: activer la gestion
+.. image:: /modules/tabs/images/management_enable.png
+   :alt: Enable management
    :align: center
 
 
 .. note::
-   Il est possible d'activer les informations administratives et financières depuis les actions massives sur un ensemble d'éléments (ordinateur, moniteur, ...)
+   It is possible to activate the administrative and financial information from the massive actions on a set of elements (computer, monitor, ...)
 
 .. note::
-   Il est possible d'activer les informations administratives et financières dès la création d'un élément
-   Voir l'option ``Activer les informations administratives et financières par défaut`` Dans Configuration > Générale > onglet Parc.
+   It is possible to activate the administrative and financial information as soon as an element is created.
+   See "Enable default administrative and financial information" option in Configuration > General > Asset tab.
 
-Les informations financières sont composées des éléments suivants :
+Financial information consists of the following items:
 
-Cycle de vie
-^^^^^^^^^^^^
+Lifecycle
+^^^^^^^^^
 
-* Date de commande
-* Date d'achat
-* Date de livraison
-* Date de mise en oeuvre
-* Date du dernier inventaire physique
-* Date de réforme
+* Order date
+* Date of purchase
+* Delivery date
+* Date of implementation
+* Date of last physical inventory
+* Date of reform
 
-Informations financières et administratives
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Financial and administrative information
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Fournisseur : tiers qui a vendu le matériel. Voir :doc:`Gérer les fournisseurs <../gestion/fournisseurs>`. Les fournisseurs sont gérés depuis le menu Gestion > Fournisseurs ;
-* Numéro de commande : numéro de la commande du matériel ;
-* Numéro d'immobilisation ;
-* Numéro de facture : numéro de la facture du matériel ;
-* Bon de livraison : bon de livraison du matériel ;
-* Valeur : coût du matériel ;
-* Valeur extension garantie : coût de l'extension de garantie, mais de préférence utiliser les contrats ;
-* Valeur nette comptable : c'est le calcul automatique de la valeur brute d'un matériel minorée du montant des amortissements ;
-* Type d'amortissement : choix du type d'amortissement entre linéaire et dégressif ;
-* Durée d'amortissement : durée d'amortissement exprimée en années ;
-* Coefficient d'amortissement : coefficient s'appliquant sur un type d'amortissement linéaire afin d'obtenir les valeurs du type dégressif. Il est donc utilisé uniquement si le type d'amortissement est dégressif ;
-* TCO (valeur+montant des interventions) : le coût total de possession qui intègre tous les éléments constitutifs d'un produit facturé ;
-* Budget : budget sur lequel ce matériel a été acheté  Voir :doc:`Gérer le budget <../gestion/budgets>`
-* Date de commande : date à laquelle le matériel a été commandé ;
-* Date d'achat : date à laquelle le matériel a été acheté ;
-* Date de mise en livraison : date à laquelle le matériel a été livré ;
-* Date de mise en service : date à laquelle le matériel a été mis en service ;
-* Date de dernier inventaire physique : date du dernier inventaire physique du matériel ;
-* Commentaires ;
-* TCO mensuel : TCO divisé par le nombre de mois entre la date d'aujourd'hui et la date d'achat du matériel ;
+* Supplier: third party who sold the equipment. See :doc:`Managing suppliers </modules/management/suppliers>`. Suppliers are managed from the menu Management > Suppliers
+* Order number : number of the order of the equipment
+* Asset number
+* Invoice number: equipment invoice number 
+* Delivery note: delivery note for the equipment
+* Value: cost of the equipment
+* Warranty extension value: cost of the warranty extension, but preferably use contracts
+* Net book value: this is the automatic calculation of the gross value of a piece of equipment minus the amount of depreciation
+* Type of depreciation: choice of the type of depreciation between linear and declining balance
+* Depreciation period: depreciation period expressed in years
+* Depreciation coefficient: coefficient applied to a straight-line depreciation type in order to obtain the values of the declining balance type. It is therefore only used if the type of depreciation is declining balance.
+* TCO (value+amount of interventions): the total cost of ownership which includes all the constituent elements of an invoiced product
+* Budget: the budget on which this equipment was purchased See :doc:`Managing the budget <../management/budgets>`
+* Order date: date on which the material was ordered
+* Purchase date: date on which the equipment was purchased
+* Delivery date: date on which the equipment was delivered
+* Commissioning date: date on which the equipment was put into service
+* Date of last physical inventory: date of the last physical inventory of the equipment
+* Comments
+* Monthly TCO: TCO divided by the number of months between today's date and the date of purchase of the equipment
 
-Informations sur la garantie
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Warranty information
+^^^^^^^^^^^^^^^^^^^^
 
-* Date de début de garantie : date à laquelle le garantie du matériel démarre ;
-* Informations sur la garantie : texte qualifiant la garantie ;
-* Durée de garantie : durée de la garantie exprimée en mois ;
-   Si une date de début de garantie ainsi qu'une durée de garantie sont positionnées, une information "Expirant le" apparaitra avec une date en rouge si celle-ci est antérieure à la date du jour ;
+* Warranty start date: date on which the warranty of the equipment starts
+* Warranty information: text qualifying the warranty
+* Warranty period: duration of the warranty expressed in months
+   If a warranty start date and a warranty period are set, the information "Expires on" will appear with a date in red if it is earlier than the current date
 
-L'ensemble des dates définies peut être géré automatiquement en fonction des changements de statut des matériels. Certaines dates peuvent également être copiées à partir d'une autre date. L'ensemble de cette configuration s'effectue par [entité](administration_entity_delegation.dita).
+All the dates defined can be managed automatically according to changes in the status of the equipment. Some dates can also be copied from another date. All this configuration is done by [entity](administration_entity_delegation.dita).
 
-Conseils
-^^^^^^^^
+Tips
+^^^^
 
-GLPI permet de configurer une notification sur l'expiration de la garantie du matériel. Ceci est configurable par entité dans la :ref:`gestion des notifications <gestion-notifications>` pour définir les modèles et destinataires utilisés et dans :ref:`l'administration des entités <administration-entites>` pour activer ou non cette fonctionnalité, définir les valeurs par défaut et anticiper l'envoi de la notification si besoin.
+GLPI allows you to configure a notification on the expiry of the hardware warranty. This is configurable by entity in :ref:`notification management <notification management>` to define the models and recipients used and in :ref:`the administration of entities <administration-entities>` to enable or disable this feature, define the default values and anticipate the sending of the notification if necessary.
 
-GLPI peut réaliser un calcul de valeur nette comptable simple sur la base d'un amortissement linéaire ou dégressif. Il convient, pour cela, de renseigner un certain nombre d'informations (valeur, date
-d'achat ou de mise en service, durée d'amortissement, coefficient d'amortissement) et de renseigner également dans :ref:`la configuration générale <configuration-generale>` la date de l'exercice comptable. Pour plus d'informations sur les notions d'amortissements, vous pouvez vous référer à `l'article Wikipedia concernant les amortissements comptables <https://fr.wikipedia.org/wiki/Amortissement_comptable#Modes_d.E2.80.99amortissement_accept.C3.A9s_comptablement>`_.
+GLPI can perform a simple net book value calculation based on straight-line or declining balance depreciation. To do so, a certain amount of information (value, date, etc.) must be entered.
+The user must also enter the date of the financial year in :ref:`the general configuration <configuration-generale>` and the date of the financial year in :ref:`the general configuration <configuration-generale>`. For more information on the notions of depreciation, you can refer to `the Wikipedia article on accounting depreciation <https://fr.wikipedia.org/wiki/Amortissement_comptable#Modes_d.E2.80.99amortissement_accept.C3.A9s_comptablement>`_.
 
-L'affichage des informations financières pour chaque type de matériel dépend du profil de l'utilisateur connecté. Il peut donc varier selon le profil.
+The display of financial information for each type of equipment depends on the profile of the user logged in. It can therefore vary depending on the profile.

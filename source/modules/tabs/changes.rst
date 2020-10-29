@@ -1,12 +1,25 @@
-Changements
-~~~~~~~~~~~
+Changes
+~~~~~~~
 
-Cet onglet permet de créer un changement associé à l'objet actuel. Il liste également les changements déjà liés à l'objet.
+The *Changes* tab is used to create a change associated with the current object. It also lists the changes already linked to the object.
 
-.. note:: 
+This summary table includes for each object:
 
-        La création d'un lien entre l'objet et un changement déjà existant devra se faire depuis le changement !
+* its status
+* its date (opening or expiry date, resolution or closing date depending on the status of the change)
+* its priority
+* its requestor(s) and assigned technician(s)
+* its associated elements
+* its category
+* its title
+* a column indicating the number of scheduled tasks
 
-.. image:: /modules/onglets/images/changes.png
-        :alt: Création et liste des changements associés
-        :align: center
+.. image:: /modules/tabs/images/changes.png
+   :alt: Creation and list of associated changes
+   :align: center
+
+.. note::
+   A second table lists the changes attached to the related elements
+
+.. note::
+   Any deletion or addition of a change is recorded in the history.

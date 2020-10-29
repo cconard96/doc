@@ -1,16 +1,14 @@
-.. orphan:
-
 Documents
 ~~~~~~~~~
 
-Les informations supplémentaires sont stockées sous la forme de documents externes qui sont des fichiers téléchargés dans GLPI. Dans l'onglet *Documents*, il est possible d'associer et de dissocier des documents à l'élément choisi. La :doc:`gestion des documents eux-mêmes </modules/gestion/documents>` est traitée dans un autre chapitre.
+Additional information is stored in the form of external documents which are files uploaded into GLPI. In the *Documents* tab, documents can be associated and unlinked with the selected item. The :doc:`management of the documents themselves </modules/management/documents>` is dealt with in another chapter.
 
-Il est également possible de créer rapidement un document via cet onglet en spécifiant le fichier désiré et facultativement la rubrique dans laquelle le nouveau document doit être placé. Le nom du document créé sera basé sur le nom du fichier ajouté.
+It is also possible to quickly create a document via this tab by specifying the desired file and optionally the field in which the new document is to be placed. The name of the created document will be based on the name of the added file.
 
-.. image:: /modules/onglets/images/documents.png
-   :alt: Écran de création d'un document
+.. image:: /modules/tabs/images/documents.png
+   :alt: Document creation screen
    :align: center
 
 .. note::
 
-   Lorsque vous supprimez un document depuis cet onglet via les actions de masse, vous ne supprimez que le lien entre l'objet et le document ; le document lui-même est toujours présent.
+   When you delete a document from this tab via mass actions, you only remove the link between the object and the document; the document itself is still present.

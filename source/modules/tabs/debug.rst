@@ -1,15 +1,15 @@
-Informations de deboguage
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Debugging information
+~~~~~~~~~~~~~~~~~~~~~
 
-Si dans votre préférences vous avez défini le mode `Debug`, un onglet éponyme apparaitra avant l'onglet *Tous*. Cet onglet propose des informations pour vous aider à résoudre une anomalie de fonctionnement.
+If in your preferences you have set the `Debug` mode, a "Debug" tab will appear before the *All* tab. This tab offers information to help you resolve an issue.
 
-Par exemple, pour un ordinateur, vous avez un ou plusieurs tableaux suivant l'objet impacté (informations financières, réservations...) listant les notifications qui vont se déclencher sur cet ordinateur avec :
+For example, for a computer, you have one or more tables depending on the affected object (financial information, reservations...) listing the notifications that will be triggered on this computer with:
 
-* l'évènement déclencheur ;
-* le destinataire ;
-* le modèle de notification utilisé ;
-* l'adresse du courriel du destinataire.
+* the triggering event
+* the recipient(s)
+* the notification model used
+* the recipient(s) email address
 
-.. image:: /modules/onglets/images/debug.png
-   :alt: Page de déboguage
+.. image:: /modules/tabs/images/debug.png
+   :alt: Debugging page
    :align: center

@@ -1,9 +1,9 @@
 Notes
 ~~~~~
 
-L'onglet *Notes* fournit un champ de texte libre pour stocker des informations complémentaires.
-L'affichage des notes se fait suivant leur date de création.
+The *Notes* tab provides a free text field for storing additional information.
+Notes are displayed in the order of their creation.
 
-.. image:: /modules/onglets/images/notes.png
-        :alt: Consulter et saisir une note
+.. image:: /modules/tabs/images/notes.png
+        :alt: View and enter a note
         :align: center
