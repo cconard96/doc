@@ -1,56 +1,57 @@
-Logiciels
-=========
+Software
+========
 
-GLPI permet la gestion des logiciels et de leurs versions ainsi que des licences (pouvant être associées ou non à des versions).
+GLPI allows the management of software and their versions as well as licences (which may or may not be associated with versions).
 
-Un logiciel est par défaut associé à une entité : c'est-à-dire qu'il y aura autant de logiciels dans la base qu'il y a d'entités. Rendre un logiciel visible dans les sous-entités permet de faire une gestion plus fine.
+A software is by default associated with an entity: that is to say that there will be as many software in the database as there are entities. Making a software visible in the sub-entities allows for more detailed management.
 
-La gestion financière est effectuée au niveau des licences, alors que celle présente dans les logiciels sert uniquement de modèle pour les licences associées à celui-ci.
+Financial management is carried out at the level of licences, whereas the financial management present in the software only serves as a model for the licences associated with it.
 
-Les logiciels peuvent être importés automatiquement depuis un outil d'inventaire tiers et dans ce cas un dictionnaire peut être utilisé pour filtrer ou nettoyer les données (voir [Configurer les dictionnaires de données](07_Module_Administration/06_Dictionnaires.rst "Les dictionnaires se gèrent depuis le menu Administration > Dictionnaires")).
+The software can be imported automatically from a third-party inventory tool and in this case a dictionary can be used to filter or clean the data (see [Configure data dictionaries](07_Module_Administration/06_Dictionaries.rst "Dictionaries are managed from the Administration > Dictionaries menu")).
 
-Certains champs sont spécifiques dans la fiche du logiciel : 
-- **Mise à jour** est une donnée informative, à partir de laquelle aucun traitement n'est effectué et qui indique que le logiciel est une mise à jour d'un autre. 
-- **Catégorie** permet des regroupements par nature sur la liste des logiciels d'un ordinateur. 
-- **Associable à un ticket** définit la visibilité du logiciel dans la liste déroulante "Matériel" d'un ticket.
+Some fields are specific in the software file: 
 
-**Bonnes pratiques :**
+- **Update** is an informative data, from which no processing is carried out and which indicates that the software is an update of another one. 
+- **Category** allows groupings by nature on a computer's software list. 
+- **Associable to a ticket** defines the visibility of the software in the "Hardware" drop-down list of a ticket.
 
-1.  Créer le logiciel (sans version dans le nom)
-2.  Créer les versions
-3.  Créer les licences
+**Good practices :**
 
-***Conseil :*** en mode multi-entité, la liste des logiciels peut devenir longue, en partie dû aux doublons (1 logiciel par entité). Une gestion fine des logiciels, licences et versions peut consister à regrouper les logiciels identiques dans une même entité (voir onglet *Regroupement* ci-dessous), puis à rendre récursif les éléments qui peuvent l'être.
+1.  Creating the software (without version in the name)
+2.  Create versions
+3.  Create licenses
 
-Il est possible d'utiliser les :doc:`gabarits avec les logiciels <../generalites/gabarits>`.
+***Tip:*** in multi-entity mode, the list of software can become long, partly due to duplicates (1 software per entity). A fine management of software, licences and versions can consist in grouping identical software in the same entity (see *grouping* tab below), then making recursive the elements that can be recursive.
 
-Les différents onglets
-----------------------
+It is possible to use the :doc:`templates with the software <../generalites/gabarits>`.
+
+The Different Tabs
+------------------
 
 .. _versions_soft:
 
 Versions
 ~~~~~~~~
 
-Principes et gestion des versions logiciels dans GLPI
+Principles and management of software versions in GLPI
 
-Une version d'un logiciel est l'élément pouvant être installé sur un ordinateur. Voir également :ref:`l'onglet *Installations* <onglet-logiciels-installations>`.
+A software version is the item that can be installed on a computer. See also :ref:`the Installations tab <onglet-logiciels-installations>`.
 
-La vue principale liste le nombre d'installation de la version.
+The main view lists the number of installations of the version.
 
-Champs spécifiques :
+Specific fields :
 
-* **Nom** : correspond au numéro de version ;
-* **Statut** : en préconisations ITIL, il permet de suivre la DSL (bibliothèque de stockage des versions autorisées) ;
-* **Système d'exploitation** : le système d'exploitation sur lequel fonctionne cette version de logiciel ;
-* **Installations** : nombre d'installations de la version ;
-* **Commentaires**.
+* **Name**: corresponds to the version number
+* **Status**: in ITIL recommendations, it allows to follow the DSL (storage library of authorized versions)
+* **Operating system**: the operating system on which this software version is running
+* **Installations**: number of installations of the version
+* **Comments**
 
 
 Licences
 ~~~~~~~~
 
-Principes et gestion des licences logiciels dans GLPI
+Principles and management of software licences in GLPI
 
 .. _onglet-logiciels-installations:
 
@@ -72,24 +73,26 @@ Pour **Désinstaller** une version d'un logiciel, il faut utiliser le système d
 
 A la suite des versions installées, la liste des licences affectées mais non installées est affichée. Vous pouvez ajouter une nouvelle licence associée à cet ordinateur. Le système d'actions massives permet, via l'action **Installer**, d'installer les versions d'utilisation des licences sélectionnées.
 
-.. include:: onglets/gestion.rst
+.. include:: ../tabs/gestion.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: onglets/problemes.rst
+.. include:: ../tabs/problems.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
-     Gestion des réservations pour un objet d'inventaire
+.. todo::
+   Add a reservations tab page.
+   See commontabs/item_reservations.rst as reference.
+   None of those files seem to be linked anywhere.
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
 Regroupement
 ~~~~~~~~~~~~
@@ -137,7 +140,7 @@ Effets du regroupement :
 The Different Actions
 ---------------------
 
-Outre les :doc:`actions communes <../generalites/actions>` ; certaines actions sont spécifiques aux logiciels :
+In addition to :doc:`the common actions <../generalites/actions>`, there are some actions specific to software:
 
 * :ref:`Ajouter une version à un logiciel <versions_soft>`
 * **[Gérer les licences](03_Module_Parc/04_Logiciels/Onglet_Licences.rst)**

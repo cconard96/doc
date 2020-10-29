@@ -39,16 +39,18 @@ The Different Tabs
 
 .. include:: ../tabs/tickets.rst
 
-.. include:: ../tabs/problemes.rst
+.. include:: ../tabs/problems.rst
 
-.. include:: ../tabs/changements.rst
+.. include:: ../tabs/changes.rst
 
 .. include:: tabs/links.rst
 
 .. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
-     Gestion des réservations pour un objet d'inventaire
+.. todo::
+   Add a reservations tab page.
+   See commontabs/item_reservations.rst as reference.
+   None of those files seem to be linked anywhere.
 
 .. include:: ../tabs/historique.rst
 

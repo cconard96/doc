@@ -17,30 +17,32 @@ The Different Tabs
 -   **Onglet "Noms réseaux"**
      Récapitulatif des adresses IP et réseaux IP pour chaque nom réseau.
 
-.. include:: onglets/gestion.rst
+.. include:: ../tabs/gestion.rst
 
-.. include:: ../onglets/contrats.rst
+.. include:: ../tabs/contrats.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
-.. include:: onglets/problemes.rst
+.. include:: ../tabs/problems.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
--   **[Onglet "Réservations"](Les_différents_onglets/Onglet_Réservations.rst)**
-     Gestion des réservations pour un objet d'inventaire
+.. todo::
+   Add a reservations tab page.
+   See commontabs/item_reservations.rst as reference.
+   None of those files seem to be linked anywhere.
 
-.. include:: ../onglets/historique.rst
+.. include:: ../tabs/historique.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 The Different Actions
 ---------------------
 
-Les matériels réseaux ne proposent pas d'actions spécifiques, se reporter aux :doc:`actions communes <../generalites/actions>`.
+Network equipment does not have any specific actions beyond the :doc:`common actions <../generalites/actions>`.

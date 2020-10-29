@@ -36,22 +36,22 @@ C'est depuis les actions de masse de cet onglet que sont attribuer les consommab
 Figure 1. Onglet Consommables
 ![image](docs/image/consumable.png)
 
-.. include:: onglets/gestion.rst
+.. include:: ../tabs/gestion.rst
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/liens.rst
+.. include:: ../tabs/liens.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/debug.rst
+.. include:: ../tabs/debug.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 The Different Actions
 ---------------------
 
-Outre les :doc:`actions communes <../generalites/actions>` ; certaines actions sont spécifiques aux consommables :
+In addition to :doc:`the common actions <../generalites/actions>`, there are some actions specific to consumables:
 
 * :ref:`Adding new consumables to a model <add-consumables-to-model>` ;
 * Lister les consommables attribués
