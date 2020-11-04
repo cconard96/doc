@@ -1,9 +1,9 @@
-Fournisseurs
-~~~~~~~~~~~~
+Suppliers
+~~~~~~~~~
 
-Cet onglet permet de créer un lien entre l'objet actuel et un fournisseur renseigné au sein de GLPI.
+The *Suppliers* tab is used to show or add linked suppliers.
 
-.. image:: /modules/onglets/images/suppliers.png
-        :alt: Ecran de création d'un lien avec un fournisseur
+.. image:: /modules/tabs/images/suppliers.png
+        :alt: Screen for creating a link with a supplier
         :align: center
         

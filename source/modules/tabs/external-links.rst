@@ -1,11 +1,13 @@
-Associer des liens externes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Associated External Links
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pour certains éléments, les liens externes se gèrent depuis le menu **Liens externes**
+The *External links* tab is used to show associated external links.
 
-Dans cet onglet, des liens externes peuvent être associés. Ces liens peuvent utiliser des champs de l'objet comme l'IP, le nom, etc. Voir [Configurer les liens externes protocolés](config_link.html "Les liens externes se configurent depuis le menu Configuration > Liens externes").
+For some items, external links are managed from the menu **Setup > External links**.
 
-Exemples :
+These links can use object fields such as IP, name, etc. See [Configure protocol external links](config_link.html "External links are configured from the Configuration > External links menu").
 
-* un lien web : http://192.168.0.1 (IP récupérée du port réseau du matériel) ;
-* un lien RDP pour un accès distant : glpi://MSTSC.EXE,pc001 (nom "pc001" récupéré du matériel).
+Examples:
+
+* A web link: http://192.168.0.1 (IP retrieved from the network port of the hardware) ;
+* A RDP link for remote access: glpi://MSTSC.EXE,pc001 (name "pc001" retrieved from the hardware).

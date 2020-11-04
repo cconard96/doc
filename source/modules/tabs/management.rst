@@ -1,12 +1,12 @@
-Gestion
-~~~~~~~
+Management
+~~~~~~~~~~
 
-L'onglet Gestion permet principalement de saisir les informations relatives au cycle de vie de l'objet concerné ainsi que ses informations financières et administratives.
+The *Management* tab is mainly used to enter information relating to the life cycle of the object as well as its financial and administrative information.
 
 .. note::
-        Cet onglet est trés lié aux notions de Fournisseurs et de Budget de GLPI !
+        This tab is closely linked to the notions of Suppliers and Budget of GLPI!
 
-.. image:: /modules/onglets/images/management.png
-        :alt: Ecran de saisie des informations de gestion de l'objet
+.. image:: /modules/tabs/images/management.png
+        :alt: Screen for entering object management information
         :align: center
 

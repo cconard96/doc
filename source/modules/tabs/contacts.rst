@@ -1,9 +1,9 @@
-Contacts associés
-~~~~~~~~~~~~~~~~~
+Associated Contacts
+~~~~~~~~~~~~~~~~~~~
 
-Dans cet onglet, il pourra être associé à l'objet concerné, un ou plusieurs contacts renseignés dans GLPI.
+The *Contacts* tab is used to show or add linked contacts.
 
-.. image:: /modules/onglets/images/contacts.png
-        :alt: Consultation et ajout des contacts associés
+.. image:: /modules/tabs/images/contacts.png
+        :alt: View and add associated contacts
         :align: center
 

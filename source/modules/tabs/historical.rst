@@ -1,16 +1,16 @@
-Visualiser l'historique
-~~~~~~~~~~~~~~~~~~~~~~~
+History
+~~~~~~~
 
-L'onglet Historique permet de visualiser toutes les modifications apportées à la description d'un élément. Le contexte du changement est précisé :
+The *History* tab is used to show any changes made to an item. The following information about the changes is available:
 
-* le numéro de la modification ;
-* les date et heure de la modification ;
-* l'utilisateur qui est l'auteur de la modification. Si ce champ n'est pas rempli, cela signifie que l'action a été faite automatiquement (par exemple : remontée automatique d'inventaire) ;
-* le champ ou la partie concernée (document, logiciel, composant...) ;
-* la modification effectuée.
+* The ID of the change.
+* The date and time the change was made.
+* The user who made the change. If this field is not filled, it means that the action was done automatically (For example: automatic inventory update).
+* The field that was changed.
+* The description of the change that was made.
 
-La description du changement présente soit l'évolution entre l'ancienne et la nouvelle valeur, soit l'explication de l'action qui a été réalisée (par exemple : Désinstallation d'un logiciel : "Gimp 2.0").
+The description of the change represents either the difference between the old and the new value (For example with location field: Change HQ to Remote Office A), or the explanation of the action which was carried out (For example: Uninstallation of a software: "Gimp 2.0").
 
 .. note::
 
-   Pour les intitulés ou objets ayant une relation parent/enfant, la modification d'un enfant apparaîtra dans l'historique de l'élément parent.*
+   For dropdowns or objects with a parent/child relationship, the modification of a child will appear in the history of the parent element.

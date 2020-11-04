@@ -1,4 +1,2 @@
 .. note::
-        
-        Il est possible d'utiliser les :doc:`gabarits pour générer cet objet <../generalites/gabarits>`.
-
+   It is possible to use :doc:`templates to generate this object <../generalites/gabarits>`.

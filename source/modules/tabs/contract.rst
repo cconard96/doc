@@ -1,13 +1,13 @@
-Contrats associés
-~~~~~~~~~~~~~~~~~
+Associated Contracts
+~~~~~~~~~~~~~~~~~~~~
 
-Cet onglet affiche les contrats associés à l'objet et permet d'en associer de nouveaux.
+The *Contracts* tab is used to show or add linked contracts.
 
 
-.. image:: /modules/onglets/images/contract.png
-   :alt: Écran d'affichage des contrats
+.. image:: /modules/tabs/images/contract.png
+   :alt: Contract display screen
    :align: center
 
-Pour chaque contrat associé, les nom, numéro, type de contrat, fournisseur, date de début et durée initiale du contrat sont listés. Dans le dernier champ, la date de fin du contrat est également présente avec un affichage en rouge si la date est antérieure à la date du jour.
+For each associated contract, the name, number, contract type, supplier, start date and initial duration of the contract are listed. In the last field, the end date of the contract is also shown with a red display if the date is earlier than the current date.
 
-Référez-vous à :doc:`la gestion des contrats </modules/gestion/contrats>` pour en savoir plus.
+Refer to :doc:`contract management </modules/management/contracts>` for more information.

@@ -1,5 +1,5 @@
-Le service d'assistance aux utilisateurs
-========================================
+User assistance module
+======================
 
 Le module d'assistance permet aux utilisateurs de saisir, suivre et traiter des tickets. Des plannings (utilisateur ou groupe) et des statistiques sont également disponibles.
 
@@ -17,20 +17,20 @@ Le module d'assistance de GLPI est conforme au guide de bonnes pratiques ITIL et
      -   :doc:`Configuration avancée <04_Configuration_avancée>`
      -   :doc:`Les matrices de cycle de vie <05_Les_matrices_de_cycle_de_vie>`
 
--   **Gérer les tickets**
-     -   :doc:`Règles de gestion <06_Tickets/01_Règles_de_gestion>`
-     -   :doc:`Gérer les tickets <06_Tickets/03_Gérer_les_tickets>`
-     -   :doc:`Ouvrir un ticket <06_Tickets/04_Ouvrir_un_ticket>`
-     -   :doc:`Pour aller plus loin <06_Tickets/05_Pour_aller_plus_loin>`
+-   **Managing tickets**
+     -   :doc:`Management rules <06_Tickets/01_Règles_de_gestion>`
+     -   :doc:`Manage tickets <06_Tickets/03_Gérer_les_tickets>`
+     -   :doc:`Open a ticket <06_Tickets/04_Ouvrir_un_ticket>`
+     -   :doc:`To go further <06_Tickets/05_Pour_aller_plus_loin>`
 
--   :doc:`Créer un ticket <07_Créer_un_ticket>`
+-   :doc:`Creating a ticket <07_Créer_un_ticket>`
 
--   :doc:`Gérer les problèmes <08_Problèmes>`
+-   :doc:`Managing problems <08_Problèmes>`
 
--   :doc:`Gérer les changements <09_Changements>`
+-   :doc:`Managing changes <09_Changements>`
 
--   :doc:`Les plannings <10_Planning>`
+-   :doc:`Planning <10_Planning>`
 
--   :doc:`Les statistiques <11_Statistiques>`
+-   :doc:`Statistics <11_Statistiques>`
 
--   :doc:`Les tickets récurrents <12_Tickets_récurrents>`
+-   :doc:`Recurring tickets <12_Tickets_récurrents>`

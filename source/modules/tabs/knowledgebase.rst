@@ -1,8 +1,8 @@
-Base de connaissances
-~~~~~~~~~~~~~~~~~~~~~
+Knowledge base
+~~~~~~~~~~~~~~
 
-Cet onglet permet de consulter ou de créer un lien à l'objet actuel avec les entrées accessibles dans la base de connaissance de GLPI.
+The *Knowledge base* tab is used to show or add linked knowledge base articles.
 
-.. image:: /modules/onglets/images/knowledgebase.png
-        :alt: Consultation ou ajout d'une entrée de base de connaissance
+.. image:: /modules/tabs/images/knowledgebase.png
+        :alt: Viewing or adding a knowledge base entry
         :align: center

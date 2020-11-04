@@ -1,10 +1,10 @@
-Eléments associés
-~~~~~~~~~~~~~~~~~
+Associated elements
+~~~~~~~~~~~~~~~~~~~
 
-Dans cet onglet, il est possible de consulter et d'ajouter tous les éléments du parc avec l'objet concerné.
+The *Items* tab is used to show or add linked assets.
 
-.. image:: /modules/onglets/images/elements.png
-        :alt: Ajout et consultation d'un élément
+.. image:: /modules/tabs/images/elements.png
+        :alt: Adding and viewing an element
         :align: center
 
 

@@ -20,7 +20,7 @@ Cette gestion à pour objectif, notamment:
 Les différents onglets
 ----------------------
 
-.. include:: ../onglets/contacts.rst
+.. include:: ../tabs/contacts.rst
 
 .. note::
         La distinction est clairement établie entre le fournisseur, qu'il est possible de lier de manière univoque à des éléments d'inventaire et les contacts, qui composent la liste des personnes permettant d'entrer en relation avec ce fournisseur. Pour établir cette liste, il faut donc associer les contacts au fournisseur concerné.
@@ -33,21 +33,21 @@ Les différents onglets
         Affecter à ce contact le type commercial.
         Puis associer le contact au fournisseur Acme.
 
-.. include:: ../onglets/contract.rst
+.. include:: ../tabs/contract.rst
 
-Eléments associés
-~~~~~~~~~~~~~~~~~
+Associated Elements
+~~~~~~~~~~~~~~~~~~~
 
-L'onglet Eléments pour l'objet fournisseur est spécifique. Il ne permet que la consultation.
-Lier un élément avec un fournissur se fera depuis l'onglet **Gestion** de l'élément (du Parc) concerné.
+The *Items* tab for the supplier object only show existing linked elements.
+Linking an element with a supplier is done from the **Management** tab of the concerned element.
 
 .. image:: images/elements-suppliers.png
-        :alt: Consultation des éléments liés à un fournisseur
+        :alt: Viewing supplier-related information
         :align: center
 
-.. include:: ../onglets/documents.rst
+.. include:: ../tabs/documents.rst
 
-.. include:: ../onglets/tickets.rst
+.. include:: ../tabs/tickets.rst
 
 Problèmes
 ~~~~~~~~~
@@ -67,15 +67,15 @@ L'onglet permet la consultation de tous les Changements sur lesquels le fourniss
         :alt: Consultation des Changements associés à un fournisseur
         :align: center
 
-.. include:: ../onglets/external-links.rst
+.. include:: ../tabs/external-links.rst
 
-.. include:: ../onglets/notes.rst
+.. include:: ../tabs/notes.rst
 
-.. include:: ../onglets/knowledgebase.rst
+.. include:: ../tabs/knowledgebase.rst
 
-.. include:: ../onglets/historical.rst
+.. include:: ../tabs/historical.rst
 
-.. include:: ../onglets/all.rst
+.. include:: ../tabs/all.rst
 
 Les différentes actions
 -----------------------

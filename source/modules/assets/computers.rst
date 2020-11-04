@@ -37,6 +37,8 @@ The Different Tabs
 
 .. include:: tabs/antivirus.rst
 
+.. include:: ../tabs/knowledgebase.rst
+
 .. include:: ../tabs/tickets.rst
 
 .. include:: ../tabs/problems.rst
@@ -52,7 +54,7 @@ The Different Tabs
    See commontabs/item_reservations.rst as reference.
    None of those files seem to be linked anywhere.
 
-.. include:: ../tabs/historique.rst
+.. include:: ../tabs/historical.rst
 
 .. include:: ../tabs/debug.rst
 
