@@ -11,4 +11,4 @@ GLPI comes with notification definitions pre-defined and they can be used out of
 - :doc:`Configure the sending of notification via email <email_notifications>`
 - :doc:`Alarm/alert options <alarm_options>`
 - :doc:`Customize notification templates <templates>`
-- **Configure notification definitions**
+- :doc:`Configure notification definitions <definitions>`
