@@ -1,7 +1,15 @@
 Configuration
 =============
 
-Configuration module gives access to all GLPI configuration options: global configuration, notifications, collectors,  automated tasks,authentication, plugins, unicity criteria ans external links.
+Configuration module gives access to all GLPI configuration options such as:
+- Global configuration
+- Notifications
+- Mail Collectors
+- Automatic actions
+- Authentication
+- Plugins
+- Unicity criteria
+- External links
 
 .. toctree::
    :maxdepth: 2
@@ -13,6 +21,7 @@ Configuration module gives access to all GLPI configuration options: global conf
    notifications/index
    crontasks
    fields-unicity
+   service_levels
    general/index
    external_links
    plugins
