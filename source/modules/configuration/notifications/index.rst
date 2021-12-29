@@ -8,7 +8,7 @@ Each notification definition comprises of a template, an event (Ticket creation)
 
 GLPI comes with notification definitions pre-defined and they can be used out of the box right away after enabling notifications.
 
-- :doc:`**Configure the sending of notification via email** <email_notifications>`
-- :doc:`**Alarm/alert options** <alarm_options>`
-- **Customize notification templates**
+- :doc:`Configure the sending of notification via email <email_notifications>`
+- :doc:`Alarm/alert options <alarm_options>`
+- :doc:`Customize notification templates <templates>`
 - **Configure notification definitions**
